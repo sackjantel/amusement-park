@@ -1,0 +1,43 @@
+img {
+  height:150px;
+  width: 250px;
+  opacity:0.25;
+}
+h2 {
+  color:gray;
+}
+button {
+  margin-top: 20px;
+}
+.col-md-4 {
+  text-align: center;
+  padding:20px;
+  /* border: 2px solid gray; */
+}
+.framed {
+  border: 2px solid gray;
+  border-radius: 5px;
+
+}
+.form-control {
+  margin: 20px 10px 20px 10px;
+  font-size: inherit;
+}
+.highlighted {
+  opacity:1;
+  border: 5px solid green;
+}
+.radio {
+  display:inline;
+  font-size: 0.75em;
+  margin: 0px 10px 0px 10px;
+}
+#large-unit, #small-unit {
+  width:140px;
+}
+#form-area {
+  height:200px;
+  margin-bottom:30px;
+  text-align:center;
+  font-size:1.5em;
+}
