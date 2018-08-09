@@ -5,8 +5,8 @@ var heights =
   'crippler' : [[5,9],[7,0]],
   'ferriswheel' : [[1,0],[4,0]],
   'pirateship' : [[4,0],[5,0]],
-  'rollercoaster' : [[5,9],[7,0]],
-  'typhoon' : [[4,0],[5,0]]
+  'rollercoaster' : [[5,0],[7,0]],
+  'typhoon' : [[4,0],[6,0]]
 }
 
 $(document).ready(function(){
